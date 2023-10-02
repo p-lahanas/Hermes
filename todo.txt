@@ -1,0 +1,17 @@
+Data Layer:
+- Can convert json to pandas object (recursively on smaller elements until we have nested df with all the data)
+- Need a way to manage downloaded data more effectively
+
+Logging:
+- Figure out the logging approach for this project
+
+Requirements:
+- Figure out how I'm going to manage package dependencies
+- Will start with a requirements.txt but will probs just make a docker image??
+
+Getting Banned:
+- Research how they detect us doing this and make sure they can't ban
+- Need to blend in as a 'recreational' user... I mean we are kinda
+
+Discord Bot:
+- Add a command that call the update anyway

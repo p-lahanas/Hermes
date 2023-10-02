@@ -1,0 +1,1641 @@
+[
+    {
+        "id": "d32d9c7131165432e8c76d185bff84f6",
+        "sport_key": "basketball_wnba",
+        "sport_title": "WNBA",
+        "commence_time": "2023-06-14T17:00:00Z",
+        "home_team": "Dallas Wings",
+        "away_team": "Los Angeles Sparks",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2023-06-14T06:44:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:44:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Wings",
+                                "price": 1.5
+                            },
+                            {
+                                "name": "Los Angeles Sparks",
+                                "price": 2.54
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:44:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Wings",
+                                "price": 1.9,
+                                "point": -4.5
+                            },
+                            {
+                                "name": "Los Angeles Sparks",
+                                "price": 1.86,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f5deb761b2d89af554a741e89892fa66",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2023-06-14T17:10:00Z",
+        "home_team": "Minnesota Twins",
+        "away_team": "Milwaukee Brewers",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2023-06-14T06:42:28Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:42:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 2.37
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 1.59
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:42:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 1.65,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 2.25,
+                                "point": -1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2023-06-14T06:42:31Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:42:31Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 1.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2023-06-14T06:43:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 2.38
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 1.61
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:43:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 1.95,
+                                "point": 1.0
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 1.86,
+                                "point": -1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 2.44
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 1.64
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 2.58
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 1.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 1.62
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 1.28,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 3.8,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2023-06-14T06:43:10Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 2.35
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 1.62
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes",
+                "title": "Ladbrokes",
+                "last_update": "2023-06-14T06:43:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 2.35
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 1.62
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8ef97dff3db9bfece3ca8e5e7ae301f8",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2023-06-14T17:15:00Z",
+        "home_team": "St. Louis Cardinals",
+        "away_team": "San Francisco Giants",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2023-06-14T06:42:28Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:42:28Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.7
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:42:28Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.58,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 2.4,
+                                "point": -1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2023-06-14T06:42:31Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:42:31Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 2.16
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.67
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2023-06-14T06:43:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:50Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 2.18
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.7
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:43:50Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.79,
+                                "point": 1.0
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 2.02,
+                                "point": -1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes",
+                "title": "Ladbrokes",
+                "last_update": "2023-06-14T06:43:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:12Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2023-06-14T06:43:10Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:10Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 2.28
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.76
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 2.32
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.78
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.7
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.22,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 4.2,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8aca736723479efbc20fa5981d613472",
+        "sport_key": "soccer_uefa_nations_league",
+        "sport_title": "UEFA Nations League",
+        "commence_time": "2023-06-14T18:45:00Z",
+        "home_team": "Netherlands",
+        "away_team": "Croatia",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2023-06-14T06:43:54Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Croatia",
+                                "price": 4.0
+                            },
+                            {
+                                "name": "Netherlands",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2023-06-14T06:43:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Croatia",
+                                "price": 3.9
+                            },
+                            {
+                                "name": "Netherlands",
+                                "price": 1.95
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:43:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Croatia",
+                                "price": 2.8,
+                                "point": 0.0
+                            },
+                            {
+                                "name": "Netherlands",
+                                "price": 1.42,
+                                "point": 0.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2023-06-14T06:43:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Croatia",
+                                "price": 3.9
+                            },
+                            {
+                                "name": "Netherlands",
+                                "price": 2.04
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2023-06-14T06:42:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:42:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Croatia",
+                                "price": 4.3
+                            },
+                            {
+                                "name": "Netherlands",
+                                "price": 2.04
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.55
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2023-06-14T06:42:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Croatia",
+                                "price": 4.4
+                            },
+                            {
+                                "name": "Netherlands",
+                                "price": 2.06
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2023-06-14T06:43:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Croatia",
+                                "price": 4.0
+                            },
+                            {
+                                "name": "Netherlands",
+                                "price": 1.95
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes",
+                "title": "Ladbrokes",
+                "last_update": "2023-06-14T06:44:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:44:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Croatia",
+                                "price": 4.0
+                            },
+                            {
+                                "name": "Netherlands",
+                                "price": 1.95
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1c7c1b9957b53cbc52aeda8838b9f3f6",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2023-06-14T23:05:00Z",
+        "home_team": "Baltimore Orioles",
+        "away_team": "Toronto Blue Jays",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2023-06-14T06:42:28Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:42:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": 1.97
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.87
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:42:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": 1.57,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 2.41,
+                                "point": -1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2023-06-14T06:42:31Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:42:31Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": 1.88
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.89
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2023-06-14T06:43:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": 1.89
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.94
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:43:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": 1.65,
+                                "point": 1.0
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 2.23,
+                                "point": -1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2023-06-14T06:43:10Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": 1.95
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.88
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes",
+                "title": "Ladbrokes",
+                "last_update": "2023-06-14T06:43:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": 1.95
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.88
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": 1.95
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.87
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": 2.0
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.95
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": 2.06
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 2.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": 1.92
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.92
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": 3.6,
+                                "point": -2.5
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.3,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0b9d383252919d354e818bbf78d296b5",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2023-06-14T23:10:00Z",
+        "home_team": "Boston Red Sox",
+        "away_team": "Colorado Rockies",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2023-06-14T06:42:28Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:42:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Red Sox",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.88
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:42:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Red Sox",
+                                "price": 1.79,
+                                "point": -1.5
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.02,
+                                "point": 1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2023-06-14T06:42:31Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:42:31Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Red Sox",
+                                "price": 1.39
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.92
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2023-06-14T06:43:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Red Sox",
+                                "price": 1.43
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.85
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:43:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Red Sox",
+                                "price": 1.9,
+                                "point": -1.5
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 1.9,
+                                "point": 1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2023-06-14T06:43:10Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Red Sox",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes",
+                "title": "Ladbrokes",
+                "last_update": "2023-06-14T06:43:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Red Sox",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Red Sox",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Red Sox",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 3.1
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Red Sox",
+                                "price": 1.48
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Red Sox",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 3.0
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Red Sox",
+                                "price": 2.8,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 1.45,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "173a8f6cf7030b6211fa3d13a04df6e8",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2023-06-14T23:10:00Z",
+        "home_team": "New York Mets",
+        "away_team": "New York Yankees",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2023-06-14T06:42:28Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:42:28Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Mets",
+                                "price": 1.89
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.95
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:42:28Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Mets",
+                                "price": 1.55,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 2.47,
+                                "point": -1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2023-06-14T06:42:31Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:42:31Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Mets",
+                                "price": 1.84
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.94
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2023-06-14T06:43:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:50Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Mets",
+                                "price": 1.87
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.97
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:43:50Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Mets",
+                                "price": 1.61,
+                                "point": 1.0
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 2.32,
+                                "point": -1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2023-06-14T06:43:10Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:10Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Mets",
+                                "price": 1.91
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.91
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes",
+                "title": "Ladbrokes",
+                "last_update": "2023-06-14T06:43:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:12Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Mets",
+                                "price": 1.91
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.91
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Mets",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Mets",
+                                "price": 1.95
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 2.0
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Mets",
+                                "price": 2.0
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 2.06
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Mets",
+                                "price": 1.87
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 2.0
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Mets",
+                                "price": 3.8,
+                                "point": -2.5
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.28,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "35fadc373e47143c21233afd7cb97efa",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2023-06-15T00:05:00Z",
+        "home_team": "Texas Rangers",
+        "away_team": "Los Angeles Angels",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2023-06-14T06:42:28Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:42:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.13
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 1.75
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:42:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 1.55,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 2.46,
+                                "point": -1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2023-06-14T06:42:31Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:42:31Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 1.65
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2023-06-14T06:43:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.18
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 1.72
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:43:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 1.79,
+                                "point": 1.0
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 2.02,
+                                "point": -1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2023-06-14T06:43:10Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 1.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes",
+                "title": "Ladbrokes",
+                "last_update": "2023-06-14T06:43:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 1.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 1.69
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.32
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 1.72
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.42
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 1.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2023-06-14T06:43:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 1.68
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2023-06-14T06:43:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 1.28,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 3.8,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
