@@ -1,6 +1,9 @@
+** Remove requirements and use poetry
+
 Data Layer:
 - Can convert json to pandas object (recursively on smaller elements until we have nested df with all the data)
-- Need a way to manage downloaded data more effectively
+- Need a way
+to manage downloaded data more effectively
 
 Logging:
 - Figure out the logging approach for this project
